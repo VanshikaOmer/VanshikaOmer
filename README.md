@@ -1,3 +1,4 @@
+![logo](https://github.com/VanshikaOmer/VanshikaOmer/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Vanshika Omer</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
